@@ -351,4 +351,7 @@ git merge origin/feature1 feature2 feature3
 
 ```powershell
 git checkout katas
+
+my favorite number is pie
 ```
+
